@@ -1,1 +1,1 @@
-# bit-n-build---hackathon
+# bit-n-build-hackathon

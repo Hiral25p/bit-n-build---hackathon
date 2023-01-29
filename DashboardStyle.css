@@ -168,7 +168,7 @@ h2{
 }
 
 .LogOutButton{
-    margin-top: 400px;
+    margin-top: 750px;
     display: flex;
     justify-content: center;
 }
@@ -180,6 +180,11 @@ h2{
     gap: 100px;
 }
 
+.MoreTwo{
+    gap: 100px;
+    flex-direction: row-reverse;
+} 
+
 .AnxietyTest{
     width: 500%;
     /* border: #000000 2px solid; */
@@ -187,6 +192,10 @@ h2{
 
 .AnxietyImage .AppointmentImage{
     height: 450px;
+}
+
+.SearchImage{
+    width: 300px;
 }
 
 .AppointMent{
@@ -213,6 +222,7 @@ a{
     margin-top: 50px;
     height: 400px;
     gap: 10%;
+    margin-bottom: 50px;
 }
 
 .cm{
